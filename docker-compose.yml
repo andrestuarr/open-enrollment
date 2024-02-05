@@ -1,0 +1,22 @@
+services:
+  mysql:
+    build: ./mysql/
+    restart: always
+    environment:
+      MYSQL_DATABASE: 'db'
+      MYSQL_ROOT_PASSWORD: 'root'
+    ports:
+      - '3306:3306'
+
+  pythonapp_extract:
+    build: ./python-extract/
+    command: sh -c "sleep 10s ; python3 /src/censo.py ; python3 /src/uninsured.py ; python3 /src/covid19.py"
+    depends_on:
+      - mysql
+
+  pythonapp_transform_load:
+    build: ./python-tranform-load/
+    command: sh -c "sleep 60s ; python3 ./main.py"
+    depends_on:
+      - mysql
+  
