@@ -1,13 +1,13 @@
 {
   "type": "service_account",
-  "project_id": "claroinsurance",
+  "project_id": "",
   "private_key_id": "34db9caf27f63f9a1d69f8ca0935ee17289a479f",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDb61+ciPd6GZUO\n75iYvTT07RnTbRna9hGK8kku8YrvlwbymB6TNqF6PTQlUUdn0/Dt47ZSa4pAiePU\n0gFvEu5QHQq8tM/N0i0clswuU1lB4ogYlv6yWidr0+auBIFCloOVuEO+u924F/kj\n3HgxurenY3mWTEjOYghLnF/hfbuRQBIjVlb0EUT3NthuVladYHdl4JnUnXeyNd1x\nEUr36B/dxgvILW4+/7EmBOclEOMaiGdxuN+ln0XONpc3S85efSfItWLzF0re6U+b\nSQPoaheqLN0C94euSIR1yqmzPWxEZ7yp6i9RhhykjB4qQW0bBShTC1MwiVv1befh\n5Gnyx2bdAgMBAAECggEAEY5G6fhjIFU/eXUPm1qeih9AjKJTSimSxlYUf1HBhuI2\nQawUFynPlsvULr1AAOr1FKboP8i28Iz+Nr4nACakoJkygyFZ/2YguzBsj0j3DjpK\nJZ0txHx+7iD5DSyhFvkF+xZxGtF+rLrSy2KTs8CVXaCKxo1Da9PjZQnQLta6YCj1\nbOIQKFTSfc8DBFv6TytUxSWD0Asi9N1hXd5SF2yFPcSq4B/IRpvd73WnauluY3zJ\n6oJlWnVyr8slfnniqdEN9oGfCPrtTToum6usysMR7pqX9Yef0uvdjl6WyKelHsQH\nmW7OtW4CDNdvVtHzeiukdjs/SSAFwy0yqpFanoZIvwKBgQDxAJFr44oCDwlww7eg\nZUm+OBFbGLF64DsDFkpuAUW3tDykdYz9/L3TFis4wyDXF7lnk5h4kMzVuRMQEptN\nbobpIqMgC6J97tNtkeBWLemZv7V15biQvVlhSmuvHmW33Y/FO+UJkNANi/25WCYw\noiPgUJO5sj6kSbBevDnkzp29ZwKBgQDpmu7o+vW9bq2JyxyDiZV03syNBe4F7m/t\nX0x9aSpHhRvIbz6Wl8tHBVDQM5Ogzc0YiN21o8X1M4n1dyHEBg8VdtPrWqUoD+b0\nehEj6I3bCSBRyc/gIGivzfTrhJI2RxvE4SSob1XtXoaGxHMnP8ZcqREu3u7fMFMo\nyn5/BVcLGwKBgQC5elxxEi92oif710UNdqaodPI2j+yXytbf61nhC62iUl6Rm76l\nAsz9FgSxrMsrfyC77EXeFGLw4X0gU5GeqD/AUV4GHa4zCYlCvJBRAwjTwU1grSm8\ni12smOADaHuUZDpv60a8c+0LYAAnkwXhTAgcbSckNWAshGHupyJPTAzuZQKBgQDZ\n7qR7zcR72Ukkh8wuGqjHwyLpXWLVPcBFnuZpCTdcSZ3Fu6KUM0B9HURrN/K9zcFM\n5kKQNh1zx4Uo7t8dVNm1mInTw1jYqx03brmW2lmcwkLYioHYAeQoPugC4EbXRDdv\n0Oq2CEgNjmXKTHNxZlnUEBXruCb5KMgsAd1I+t5diQKBgQCdUQnqvSupS9iLB1dB\nhMJpxZZLCInZDVbCKpy7l9SBjVG53v2xadNieNKDZJNB8QWxurIDqo9DfmYFLC0t\n3USEu56JJrMXLrkkmczfsloEX+NiUYS+97ucLOTbAVdPWLmhTUZWOGnP6/jRh1Fz\nHhllUdObHsOcn3aV3AWtJ3yIAQ==\n-----END PRIVATE KEY-----\n",
-  "client_email": "claro-insurance@claroinsurance.iam.gserviceaccount.com",
+  "private_key": "",
+  "client_email": "",
   "client_id": "105355882969702781603",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/claro-insurance%40claroinsurance.iam.gserviceaccount.com",
+  "client_x509_cert_url": "",
   "universe_domain": "googleapis.com"
 }
